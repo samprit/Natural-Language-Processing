@@ -1,0 +1,14 @@
+P02-1006 83	Learning Surface Text Patterns For A Question Answering System	2002
+J94-2001 81 Tagging English Text With A Probabilistic Model	1994
+
+J00-4003 31 An Empirically Based System For Processing Definite Descriptions	2000
+C96-1021 28 Anaphora For Everyone: Pronominal Anaphora Resolution Without A Parser	1996
+J06-1003 51 Evaluating WordNet-based Measures of Lexical Semantic Relatedness	2006
+
+W04-3250 173 Statistical Significance Tests For Machine Translation Evaluation	2004
+W05-0909 118 METEOR: An Automatic Metric For MT Evaluation With Improved Correlation With Human Judgments	2005
+P05-1066 124 Clause Restructuring For Statistical Machine Translation	2005
+
+P98-2127 277 Automatic Retrieval and Clustering of Similar Words	1998
+C92-2082 210 Automatic Acquisition Of Hyponyms From Large Text Corpora	1992
+P03-1054 352 Accurate Unlexicalized Parsing	2003
